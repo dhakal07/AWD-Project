@@ -84,7 +84,7 @@ Slow customer service response
 **Tech-Savvy Level**: Medium  
 **Devices Used**: Mobile, Tablet  
 
-🎯 **Goals**:
+🎯 **Goals**:  
 ✅ Buy kids' clothing, toys, and household items quickly  
 ✅ Get reliable product reviews before making a purchase  
 ✅ Use a wishlist and save items for later  
