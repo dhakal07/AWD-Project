@@ -57,7 +57,7 @@ Difficult order tracking
 Poor customer support  
 
 
-**Persona 3: The Tech Enthusiast**
+**Persona 3: The Tech Enthusiast**  
 **Name**: Mikko Pasanen  
 **Age**: 30  
 **Location**: Espoo, Finland  
