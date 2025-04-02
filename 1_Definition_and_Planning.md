@@ -20,12 +20,12 @@ Deploy the application to the cloud for scalability
 ## 1. User Personas
 
 👩‍💻 Persona 1: The Regular Shopper
-🆔 Name: Emma Wilson
-🎂 Age: 25
-📍 Location: Helsinki, Finland
-💼 Occupation: Marketing Specialist
-💡 Tech-Savvy Level: Medium
-📱 Devices Used: Mobile, Laptop
+🆔 **Name**: Emma Wilson
+🎂 **Age**: 25
+📍 **Location**: Helsinki, Finland
+💼 **Occupation**: Marketing Specialist
+💡 **Tech-Savvy Level**: Medium
+📱 **Devices Used**: Mobile, Laptop
 
 🎯 Goals:
 ✅ Easily browse and purchase trendy fashion products
