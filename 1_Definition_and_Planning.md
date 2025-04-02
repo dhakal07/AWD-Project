@@ -133,7 +133,17 @@ Add something
 
 ## 4. Information Architecture and Technical Design
 
-Add something
+Here we will defining how everything in the project is structured and how different parts communicate—both from a user experience and a technical perspective.  
+We will be covering  
+**Navigation Flow**  
+**Frontend-Backend Flow** (How UI interacts with backend)  
+**Data Structure Blueprint**  
+**Used technologies and Architectures**  
+**API Designs**  
+
+
+
+
 
 ## 5. Project Management and User Testing
 
