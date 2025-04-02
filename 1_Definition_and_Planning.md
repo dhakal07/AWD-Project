@@ -89,7 +89,7 @@ Slow customer service response
 ✅ Get reliable product reviews before making a purchase  
 ✅ Use a wishlist and save items for later  
 
-❌ **Frustrations**:
+❌ **Frustrations**:  
 No easy way to save favorite products  
 No proper size guide for kids' clothing  
 Complicated return policy  
@@ -108,7 +108,7 @@ Complicated return policy
 ✅ Get clear product descriptions and easy checkout  
 ✅ Have access to customer support via phone  
 
-❌ **Frustrations**:
+❌ **Frustrations**:  
 Too many steps in the checkout process  
 Small text and confusing navigation  
 Hard-to-find customer service options  
