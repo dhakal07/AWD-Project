@@ -19,7 +19,7 @@ Deploy the application to the cloud for scalability
 
 ## User Personas
 
-**Persona 1: The Regular Shopper**  
+**Persona 1: The Regular Customer**  
 **Name**: Emma Wilson  
 **Age**: 25  
 **Location**: Helsinki, Finland  
@@ -37,11 +37,11 @@ Slow website load times
 Complicated checkout process  
 Limited payment methods  
 
-**Persona 2: The Small Business Owner (Admin User)**  
+**Persona 2: The Small Business Owner**  
 **Name**: Alex Smith  
 **Age**: 35  
 **Location**: Kokkola, Finland  
-**Occupation**: Small Business Owner (E-Commerce Seller)  
+**Occupation**: Small Business Owner    
 **Tech-Savvy Level**: Low  
 **Devices Used**: Desktop, Tablet  
 
