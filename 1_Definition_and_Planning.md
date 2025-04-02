@@ -2,6 +2,8 @@
 
 The goal of this project is to develop a fully functional e-commerece platform that allows customers to browse products, add them in their cart and complete the purchases in secure and successful manner. And admin will be able to manage products and orders efficiently.
 I have listed the key objectives of the pproject as following.
+• provide user/friendly shopping experience with very clear UI
+
 
 
 ## 1. User Personas
