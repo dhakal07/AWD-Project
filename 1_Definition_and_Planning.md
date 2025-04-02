@@ -37,25 +37,23 @@ Slow website load times
 Complicated checkout process  
 Limited payment methods  
 
-👩‍🍳 Persona 2: The Small Business Owner (Admin User)
-🆔 Name: Alex Smith
-🎂 Age: 35
-📍 Location: Kokkola, Finland
-💼 Occupation: Small Business Owner (E-Commerce Seller)
-💡 Tech-Savvy Level: Low
-📱 Devices Used: Desktop, Tablet
+**Persona 2: The Small Business Owner (Admin User)**  
+**Name**: Alex Smith  
+**Age**: 35  
+**Location**: Kokkola, Finland  
+**Occupation**: Small Business Owner (E-Commerce Seller)  
+**Tech-Savvy Level**: Low  
+**Devices Used**: Desktop, Tablet  
 
-🎯 Goals:
-✅ Easily add/edit/delete products
-✅ View and manage customer orders
-✅ Get sales reports and insights
+🎯 **Goals**:  
+✅ Easily add/edit/delete products  
+✅ View and manage customer orders  
+✅ Get sales reports and insights  
 
-❌ Frustrations:
-Complicated backend management
-
-Difficult order tracking
-
-Poor customer support
+❌ **Frustrations**:  
+Complicated backend management  
+Difficult order tracking  
+Poor customer support  
 
 👨‍💻 Persona 3: The Tech Enthusiast
 🆔 Name: Daniel Carter
