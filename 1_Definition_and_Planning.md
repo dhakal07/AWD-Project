@@ -17,7 +17,7 @@ Deploy the application to the cloud for scalability
 
 
 
-## 1. User Personas
+## User Personas
 
 **Persona 1: The Regular Shopper**  
 **Name**: Emma Wilson  
@@ -27,17 +27,15 @@ Deploy the application to the cloud for scalability
 **Tech-Savvy Level**: Medium  
 **Devices Used**: Mobile, Laptop  
 
-🎯 Goals:
-✅ Easily browse and purchase trendy fashion products
-✅ Get quick checkout with multiple payment options
-✅ Receive fast delivery and order tracking updates
+🎯 **Goals**:  
+✅ Easily browse and purchase trendy fashion products  
+✅ Get quick checkout with multiple payment options  
+✅ Receive fast delivery and order tracking updates  
 
-❌ Frustrations:
-Slow website load times
-
-Complicated checkout process
-
-Limited payment methods
+❌ **Frustrations**:  
+Slow website load times  
+Complicated checkout process  
+Limited payment methods  
 
 👩‍🍳 Persona 2: The Small Business Owner (Admin User)
 🆔 Name: Alex Smith
