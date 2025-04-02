@@ -37,6 +37,7 @@ Slow website load times
 Complicated checkout process  
 Limited payment methods  
 
+
 **Persona 2: The Small Business Owner**  
 **Name**: Alex Smith  
 **Age**: 35  
@@ -55,65 +56,62 @@ Complicated backend management
 Difficult order tracking  
 Poor customer support  
 
-👨‍💻 Persona 3: The Tech Enthusiast
-🆔 Name: Daniel Carter
-🎂 Age: 30
-📍 Location: Espoo, Finland
-💼 Occupation: Software Developer
-💡 Tech-Savvy Level: High
-📱 Devices Used: Laptop, Mobile, Smart Home Devices
 
-🎯 Goals:
-✅ Find high-quality gadgets with detailed product specifications
-✅ Look for discounts and exclusive deals
-✅ Use advanced search and filter options
+**Persona 3: The Tech Enthusiast**
+**Name**: Mikko Pasanen  
+**Age**: 30  
+**Location**: Espoo, Finland  
+**Occupation**: Software Developer  
+**Tech-Savvy Level**: High  
+**Devices Used**: Laptop, Mobile, Smart Home Devices  
 
-❌ Frustrations:
-Hard-to-navigate website
+🎯 **Goals**:
+✅ Find high-quality gadgets with detailed product specifications  
+✅ Look for discounts and exclusive deals  
+✅ Use advanced search and filter options  
 
-Poorly written product descriptions
+❌ **Frustrations**:  
+Hard-to-navigate website  
+Poorly written product descriptions  
+Slow customer service response  
 
-Slow customer service response
 
-👩‍👧 Persona 4: The Parent Shopper
-🆔 Name: Lisa Johnson
-🎂 Age: 40
-📍 Location: Oulu, Finland
-💼 Occupation: Stay-at-home Mom
-💡 Tech-Savvy Level: Medium
-📱 Devices Used: Mobile, Tablet
+**Persona 4: Housemaker**  
+**Name**: Lisa Johnson  
+**Age**: 40  
+**Location**: Oulu, Finland  
+**Occupation**: Stay-at-home Mom  
+**Tech-Savvy Level**: Medium  
+**Devices Used**: Mobile, Tablet  
 
-🎯 Goals:
-✅ Buy kids' clothing, toys, and household items quickly
-✅ Get reliable product reviews before making a purchase
-✅ Use a wishlist and save items for later
+🎯 **Goals**:
+✅ Buy kids' clothing, toys, and household items quickly  
+✅ Get reliable product reviews before making a purchase  
+✅ Use a wishlist and save items for later  
 
-❌ Frustrations:
-No easy way to save favorite products
+❌ **Frustrations**:
+No easy way to save favorite products  
+No proper size guide for kids' clothing  
+Complicated return policy  
 
-No proper size guide for kids' clothing
 
-Complicated return policy
+**Persona 5: The Elderly User**  
+**Name**: Petri Mäkinen  
+**Age**: 65  
+**Location**: Tampere, Finland  
+**Occupation**: Retired Teacher  
+**Tech-Savvy Level**: Low  
+**Devices Used**: Desktop, Tablet  
 
-👴 Persona 5: The Elderly User
-🆔 Name: Peter Mäkinen
-🎂 Age: 65
-📍 Location: Tampere, Finland
-💼 Occupation: Retired Teacher
-💡 Tech-Savvy Level: Low
-📱 Devices Used: Desktop, Tablet
+🎯 **Goals**:  
+✅ Find an easy-to-use website with large fonts  
+✅ Get clear product descriptions and easy checkout  
+✅ Have access to customer support via phone  
 
-🎯 Goals:
-✅ Find an easy-to-use website with large fonts
-✅ Get clear product descriptions and easy checkout
-✅ Have access to customer support via phone
-
-❌ Frustrations:
-Too many steps in the checkout process
-
-Small text and confusing navigation
-
-Hard-to-find customer service options
+❌ **Frustrations**:
+Too many steps in the checkout process  
+Small text and confusing navigation  
+Hard-to-find customer service options  
 
 
 
