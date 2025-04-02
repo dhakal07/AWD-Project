@@ -117,7 +117,12 @@ Hard-to-find customer service options
 
 ## 2. Use Cases and User Flows
 
-Add something
+| Use Cases | Actors | User Flows |
+|----------|----------|----------|
+| User Registeration/Login | Customer, Admin | Users should be able to sign up, log in and manage their profiles. |
+| Browsing Products | Customer | Customers can browse, search, and filter products. |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+
 
 ## 3. UI Prototypes
 
