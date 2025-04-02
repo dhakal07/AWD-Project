@@ -1,7 +1,7 @@
 # Project phase 1 - Definition and planning
 
 The goal of this project is to develop a fully functional e-commerece platform that allows customers to browse products, add them in their cart and complete the purchases in secure and successful manner. And admin will be able to manage products and orders efficiently.
-I have listed the key objectives of the pproject as following.
+I have listed the key objectives of the project as **following**.
 
 Provide a user-friendly shopping experience with a clear and simple UI
 
@@ -19,13 +19,13 @@ Deploy the application to the cloud for scalability
 
 ## 1. User Personas
 
-👩‍💻 Persona 1: The Regular Shopper  
-🆔 **Name**: Emma Wilson  
-🎂 **Age**: 25  
-📍 **Location**: Helsinki, Finland  
-💼 **Occupation**: Marketing Specialist  
-💡 **Tech-Savvy Level**: Medium  
-📱 **Devices Used**: Mobile, Laptop  
+**Persona 1: The Regular Shopper**  
+**Name**: Emma Wilson  
+**Age**: 25  
+**Location**: Helsinki, Finland  
+**Occupation**: Marketing Specialist  
+**Tech-Savvy Level**: Medium  
+**Devices Used**: Mobile, Laptop  
 
 🎯 Goals:
 ✅ Easily browse and purchase trendy fashion products
