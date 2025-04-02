@@ -65,7 +65,7 @@ Poor customer support
 **Tech-Savvy Level**: High  
 **Devices Used**: Laptop, Mobile, Smart Home Devices  
 
-🎯 **Goals**:
+🎯 **Goals**:  
 ✅ Find high-quality gadgets with detailed product specifications  
 ✅ Look for discounts and exclusive deals  
 ✅ Use advanced search and filter options  
